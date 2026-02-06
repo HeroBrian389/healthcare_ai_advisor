@@ -22,8 +22,5 @@ __pycache__/
 .venv/
 venv/
 
-# Local Python tooling
-uv.lock
-
 # Generated artifacts
 out/
