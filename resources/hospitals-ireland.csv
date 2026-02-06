@@ -1,0 +1,136 @@
+province,county,name,type,description,source_section
+Connacht,Galway,University Hospital Galway,public,public acute hospital in Galway city; part of the Saolta University Health Care Group,county_table
+Connacht,Galway,Portiuncula University Hospital,public,public acute hospital in Ballinasloe,county_table
+Connacht,Galway,Merlin Park University Hospital,public,public orthopaedic and rehabilitation hospital,county_table
+Connacht,Galway,Bon Secours Hospital Galway,private,private hospital in Renmore,county_table
+Connacht,Galway,Galway Clinic (Blackrock Health Galway Clinic),private,private “high‑tech” hospital,county_table
+Connacht,Galway,UPMC Galway Day Hospital & Radiation Oncology Centre,private,private radiotherapy centre,county_table
+Connacht,Galway,Galway Plastic Surgery,private,private clinic,county_table
+Connacht,Leitrim,"Our Lady’s Hospital, Manorhamilton",public,"public hospital providing medical, surgical and rehabilitation services",county_table
+Connacht,Mayo,"Mayo University Hospital, Castlebar",public,public acute hospital,county_table
+Connacht,Roscommon,Roscommon University Hospital,public,public acute hospital (previously “Roscommon County Hospital”),county_table
+Connacht,Roscommon,Sacred Heart Hospital (Roscommon),voluntary,public long‑stay and rehabilitation hospital; voluntary facility,county_table
+Connacht,Sligo,Sligo University Hospital,public,public acute hospital in Sligo town,county_table
+Connacht,Sligo,"Kingsbridge Private Hospital, Garden Hill",private,private hospital,county_table
+Connacht,Sligo,"St John’s Hospital, Sligo",public,public community hospital,county_table
+Leinster,Carlow,"St Dympna’s Hospital, Carlow",public,public mental‑health hospital,county_table
+Leinster,Dublin,Beaumont Hospital,public,large public teaching hospital in Dublin 9,county_table
+Leinster,Dublin,"Beacon Hospital, Sandyford",private,private hospital in Dublin 18,county_table
+Leinster,Dublin,Blackrock Clinic,private,private high‑tech hospital in Blackrock,county_table
+Leinster,Dublin,Hermitage Clinic,private,private high‑tech hospital in Lucan,county_table
+Leinster,Dublin,"Bon Secours Hospital, Glasnevin",private,private hospital,county_table
+Leinster,Dublin,Cappagh National Orthopaedic Hospital,public,public orthopaedic hospital,county_table
+Leinster,Dublin,"Connolly Hospital, Blanchardstown",public,public hospital,county_table
+Leinster,Dublin,"Children’s Health Ireland at Crumlin, at Temple Street and at Tallaght",public,public paediatric hospitals,county_table
+Leinster,Dublin,Coombe Women’s and Infants University Hospital,public,public maternity hospital,county_table
+Leinster,Dublin,Incorporated Orthopaedic Hospital (Clontarf Hospital),public,public orthopaedic hospital,county_table
+Leinster,Dublin,Mater Misericordiae University Hospital,public,public teaching hospital,county_table
+Leinster,Dublin,Mater Private Hospital,private,private high‑tech hospital,county_table
+Leinster,Dublin,Mater Private Network Day Hospitals (Cherrywood and Northern Cross),private,private day‑case facilities,county_table
+Leinster,Dublin,National Maternity Hospital (Holles Street),public,public maternity hospital,county_table
+Leinster,Dublin,Our Lady’s Hospital for Sick Children (Crumlin),public,public paediatric hospital,county_table
+Leinster,Dublin,Peamount Hospital,voluntary,voluntary hospital providing respiratory care and rehabilitation,county_table
+Leinster,Dublin,Rotunda Hospital,public,public maternity hospital,county_table
+Leinster,Dublin,Royal Victoria Eye & Ear Hospital,public,public specialist hospital,county_table
+Leinster,Dublin,"St Columcille’s Hospital, Loughlinstown",public,public hospital,county_table
+Leinster,Dublin,St James’s Hospital,public,large public teaching hospital,county_table
+Leinster,Dublin,"St John of God Hospital, Stillorgan",private,private mental‑health hospital,county_table
+Leinster,Dublin,"St Joseph’s Hospital, Raheny",public,public care hospital,county_table
+Leinster,Dublin,"St Luke’s Hospital, Rathgar",public,public radiotherapy hospital,county_table
+Leinster,Dublin,"St Michael’s Hospital, Dún Laoghaire",public,public hospital,county_table
+Leinster,Dublin,St Patrick’s University Hospital (including Willow Grove adolescent unit),private,private psychiatric hospital,county_table
+Leinster,Dublin,"St Vincent’s Hospital, Fairview",public,public psychiatric hospital,county_table
+Leinster,Dublin,St Vincent’s Private Hospital,private,private hospital,county_table
+Leinster,Dublin,St Vincent’s University Hospital (Elm Park),public,public teaching hospital,county_table
+Leinster,Dublin,Tallaght University Hospital,public,public teaching hospital,county_table
+Leinster,Dublin,"Sports Surgery Clinic, Santry",private,private orthopaedic and sports–medicine hospital,county_table
+Leinster,Dublin,Hermitage Medical Clinic,private,high‑tech private hospital,county_table
+Leinster,Dublin,Highfield Healthcare (Highfield Hospital and Hampstead Clinic),private,private mental‑health hospital,county_table
+Leinster,Dublin,La Ginesa,private,"St John of God, Stillorgan – private mental‑health clinic",county_table
+Leinster,Dublin,Eccles Clinic,private,private day‑case hospital in Dublin 7,county_table
+Leinster,Dublin,Medical Optics (Fairview),private,private ophthalmic clinic,county_table
+Leinster,Dublin,Progressive Vision (Sandyford and Swords),private,private eye‑surgery centres,county_table
+Leinster,Dublin,"St Edmundsbury Private Hospital, Lucan",private,private psychiatric hospital,county_table
+Leinster,Dublin,St Francis Hospice (Raheny and Blanchardstown),voluntary,voluntary hospice,county_table
+Leinster,Dublin,"Royal Hospital, Donnybrook",voluntary,voluntary rehabilitation hospital; one of Ireland’s oldest hospitals,county_table
+Leinster,Dublin,Leopardstown Park Hospital,voluntary,voluntary hospital providing long‑term residential and rehabilitation care,county_table
+Leinster,Dublin,"National Rehabilitation Hospital, Dún Laoghaire",public,public specialist rehabilitation hospital,county_table
+Leinster,Dublin,Bloomfield Hospital,voluntary,not‑for‑profit mental‑health hospital in Rathfarnham,county_table
+Leinster,Dublin,Central Remedial Clinic,voluntary,voluntary hospital for people with physical disabilities,county_table
+Leinster,Dublin,"Royal Hospital, Donnybrook",voluntary,voluntary rehabilitation hospital,county_table
+Leinster,Dublin,St Luke’s Radiation Oncology Network,public,"state radiotherapy centres at St Luke’s Hospital (Rathgar), St James’s Hospital and Beaumont Hospital",county_table
+Leinster,Kildare,Naas General Hospital,public,public acute hospital,county_table
+Leinster,Kildare,"UPMC Kildare Hospital, Clane",private,private hospital,county_table
+Leinster,Kildare,"Institute of Eye Surgery, Clane",private,private ophthalmic clinic,county_table
+Leinster,Kilkenny,"St Luke’s General Hospital, Kilkenny",public,public acute hospital,county_table
+Leinster,Kilkenny,"Lourdes Orthopaedic Hospital, Kilcreene (also called Kilcreene Regional Orthopaedic Hospital)",public,public orthopaedic hospital,county_table
+Leinster,Kilkenny,UPMC Aut Even Hospital,private,private hospital,county_table
+Leinster,Laois,"Midland Regional Hospital, Portlaoise",public,public acute hospital,county_table
+Leinster,Longford,"St Joseph’s Hospital, Longford",public,public community hospital,county_table
+Leinster,Louth,"Louth County Hospital, Dundalk",public,public hospital,county_table
+Leinster,Louth,"Our Lady of Lourdes Hospital, Drogheda",public,public acute hospital,county_table
+Leinster,Louth,"Cottage Hospital, Drogheda",public,public community hospital,county_table
+Leinster,Meath,"Our Lady’s Hospital, Navan",public,public acute hospital,county_table
+Leinster,Offaly,"Midland Regional Hospital, Tullamore",public,public acute hospital,county_table
+Leinster,Westmeath,"Midland Regional Hospital, Mullingar",public,public hospital,county_table
+Leinster,Westmeath,"Charter Medical Private Hospital, Ballinderry",private,private hospital,county_table
+Leinster,Westmeath,Institute of Eye Surgery clinics (Athlone and Mullingar),private,private ophthalmic clinics,county_table
+Leinster,Wexford,Wexford General Hospital,public,public acute hospital,county_table
+Leinster,Wexford,"Ely Hospital HSE South, Ferrybank",public,public long‑stay hospital,county_table
+Leinster,Wicklow,"St Columcille’s Hospital, Loughlinstown",public,public hospital (already listed under Dublin because it falls within the Dublin area),county_table
+Leinster,Wicklow,"Medical Optics, Bray",private,private ophthalmic clinic,county_table
+Leinster,Wicklow,"St Vincent’s University Hospital Caritas Convalescent Centre, Dún Laoghaire",,convalescent hospital,county_table
+Leinster,Wicklow,Peamount Hospital,voluntary,voluntary long‑stay hospital (listed in Dublin),county_table
+Munster,Clare,"Mid‑Western Regional Hospital, Ennis",public,public acute hospital,county_table
+Munster,Cork,Bantry General Hospital,public,public hospital in Bantry,county_table
+Munster,Cork,"Bon Secours Hospital, Cork",private,private hospital,county_table
+Munster,Cork,Cork University Hospital,public,large public teaching hospital,county_table
+Munster,Cork,Cork University Maternity Hospital,public,public maternity hospital,county_table
+Munster,Cork,Mallow General Hospital,public,public hospital,county_table
+Munster,Cork,Mercy University Hospital,public,public university hospital in Cork city,county_table
+Munster,Cork,South Infirmary /Victoria University Hospital,public,public hospital,county_table
+Munster,Cork,Mater Private Network Cork,private,private hospital,county_table
+Munster,Cork,"UPMC Radiation Oncology Centre at Bon Secours, Cork",private,private radiotherapy centre,county_table
+Munster,Cork,St Patrick’s Hospital/Marymount Hospice,voluntary,voluntary palliative‑care hospital,county_table
+Munster,Cork,Cork University Dental School & Hospital,public,public dental hospital,county_table
+Munster,Cork,Tabor Lodge and Cuan Mhuire (Farnanes),private,private addiction‑treatment centres,county_table
+Munster,Kerry,"Kerry University Hospital, Tralee",public,public hospital,county_table
+Munster,Kerry,"Bon Secours Hospital, Tralee",private,private hospital,county_table
+Munster,Kerry,"The Grove, Abbeylands, Ardfert",,addiction treatment centre,county_table
+Munster,Limerick,University Hospital Limerick (formerly Mid‑Western Regional Hospital),public,public acute hospital,county_table
+Munster,Limerick,University Maternity Hospital Limerick,public,public maternity hospital,county_table
+Munster,Limerick,Bon Secours Hospital Limerick at Barringtons,private,private hospital,county_table
+Munster,Limerick,Bon Secours Hospital Limerick (Ballysimon),private,private hospital,county_table
+Munster,Limerick,Mid‑Western Regional Orthopaedic Hospital,public,public orthopaedic hospital,county_table
+Munster,Limerick,Mid‑Western Radiation Oncology Unit,private,private radiotherapy centre,county_table
+Munster,Limerick,Citygate Medical Day Rooms,private,private day surgery clinic,county_table
+Munster,Limerick,Milford Care Centre,voluntary,voluntary hospice,county_table
+Munster,Limerick,"St John’s Hospital, Limerick",public,public hospital,county_table
+Munster,Tipperary,Mid‑Western Regional Hospital Nenagh (St Joseph’s Hospital),public,public hospital,county_table
+Munster,Tipperary,"South Tipperary University Hospital, Clonmel",public,public hospital,county_table
+Munster,Waterford,University Hospital Waterford,public,public hospital,county_table
+Munster,Waterford,UPMC Whitfield Clinic,private,private hospital,county_table
+Munster,Waterford,"Institute of Eye Surgery, Waterford",private,private ophthalmic clinic,county_table
+Ulster (Republic of Ireland counties),Cavan,Cavan General Hospital,public,public hospital,county_table
+Ulster (Republic of Ireland counties),Donegal,Letterkenny University Hospital,public,public acute hospital,county_table
+Ulster (Republic of Ireland counties),Monaghan,Monaghan General Hospital,public,public hospital,county_table
+Northern Ireland (cross-border),,"Royal Victoria Hospital, Belfast",cross-border,,cross_border
+Northern Ireland (cross-border),,"Ulster Independent Clinic, Belfast",cross-border,,cross_border
+Northern Ireland (cross-border),,"Kingsbridge Private Hospital North West, Derry",cross-border,,cross_border
+Northern Ireland (cross-border),,Antrim Area Hospital,cross-border,,cross_border
+Northern Ireland (cross-border),,Altnagelvin Hospital,cross-border,,cross_border
+Northern Ireland (cross-border),,Craigavon Area Hospital,cross-border,,cross_border
+Ireland (various),,Royal Hospital Donnybrook,voluntary,independent voluntary hospital providing rehabilitation and long‑term care; it is one of Ireland’s oldest hospitals.,additional_specialised
+Ireland (various),,Leopardstown Park Hospital,voluntary,voluntary hospital in Dublin 18 providing long‑stay and rehabilitation care.,additional_specialised
+Ireland (various),,"Bloomfield Hospital, Rathfarnham",voluntary,not‑for‑profit mental‑health hospital.,additional_specialised
+Ireland (various),,"National Rehabilitation Hospital, Dún Laoghaire",public,public specialist rehabilitation hospital providing neurological and spinal rehabilitation.,additional_specialised
+Ireland (various),,Central Remedial Clinic,voluntary,voluntary hospital and national centre for people with physical disabilities.,additional_specialised
+Ireland (various),,"Our Lady’s Hospice, Harold’s Cross & Blackrock",voluntary,voluntary hospice providing specialist palliative care.,additional_specialised
+Ireland (various),,St Francis Hospice,voluntary,voluntary hospice with sites at Raheny and Blanchardstown.,additional_specialised
+Ireland (various),,"St Patrick’s (Marymount) University Hospital & Hospice, Cork",voluntary,voluntary hospice and palliative‑care hospital.,additional_specialised
+Ireland (various),,Highfield Healthcare,private,private mental‑health hospital comprising Highfield Hospital and Hampstead Clinic.,additional_specialised
+Ireland (various),,La Ginesa / St John of God,private,private mental‑health clinic in Stillorgan.,additional_specialised
+Ireland (various),,"St Edmundsbury Private Hospital, Lucan",private,private psychiatric hospital.,additional_specialised
+Ireland (various),,St Luke’s Radiation Oncology Network,,national network of radiotherapy centres based at St Luke’s Hospital (Rathgar) and satellite units at St James’s Hospital and Beaumont Hospital.,additional_specialised
+Ireland (various),,"Progressive Vision (Sandyford & Swords), Medical Optics (Fairview & Bray) and Institute of Eye Surgery clinics (Clane, Waterford, Athlone and Mullingar)",private,private ophthalmic clinics providing cataract and refractive surgery.,additional_specialised
+Ireland (various),,"Bushypark Treatment Centre (Clare), Cuan Mhuire (Farnanes, Co. Cork), Tabor Lodge (Belgooly, Co. Cork) and The Grove (Ardfert, Co. Kerry)",,addiction treatment centres.,additional_specialised

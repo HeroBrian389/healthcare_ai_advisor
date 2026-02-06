@@ -14,7 +14,9 @@ A living reading list and notes.
 - EU AI Act (high-level obligations)
 - GDPR principles (especially for health data)
 
+## Ireland context
+- Hospitals and major clinics list (Feb 2026): `resources/hospitals-ireland.md`
+
 ## Writing prompts
 - “If I had to advise a hospital CIO next week, what would I say?”
 - “What are the failure modes, and how do we detect them in production?”
-
