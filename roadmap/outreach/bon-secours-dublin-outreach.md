@@ -42,9 +42,14 @@ Hi Sharon,
 
 I’m `{{your_name}}` (`{{your_title}}`). `{{your_cred}}`.
 
-I’m reaching out because Bon Secours Dublin looks like a strong candidate for a **small, low‑risk AI pilot** focused on a single operational workflow (e.g., theatre cancellations or outpatient DNAs) — **without touching patient notes**.
+I’m reaching out because Bon Secours Dublin looks like a strong candidate for a **small, low‑risk AI pilot** focused on one operational workflow (e.g., theatre cancellations or outpatient DNAs) — ideally **starting without patient notes**.
 
-The shape I’m proposing is simple: a short discovery to map one workflow + agree guardrails (clinical leadership, IT/security), then a 4–6 week pilot that produces (1) a working prototype and (2) an evaluation plan you can actually trust.
+In 4–6 weeks, I’d aim to:
+
+- Map the workflow end-to-end and identify bottlenecks
+- Assess practical **AI readiness** (data, access, governance, change)
+- Propose a **safe deployment approach** (guardrails, auditability, monitoring)
+- Deliver a small prototype + an evaluation plan so you have a clear go/no-go
 
 If you’re open to it, could we do a 25–30 minute call next week? If someone else is better placed (ops / digital), I’m happy to route via them.
 
@@ -55,7 +60,7 @@ Best,
 
 LinkedIn connect note (short):
 
-Hi Sharon — I’m `{{your_name}}`. I help Irish hospitals run small, low‑risk AI pilots (one workflow, no PHI) with proper evaluation + governance. Would you be open to a brief call?
+Hi Sharon — I’m `{{your_name}}`. I help hospitals run small, low‑risk AI pilots (one workflow) and I deliver the readiness + safety/evaluation plan so it’s safe to deploy. Would you be open to a brief call?
 
 ---
 
@@ -74,9 +79,11 @@ Hi Prof Patchett,
 
 I’m `{{your_name}}` (`{{your_title}}`). I’m working on practical, safety‑first AI adoption in Irish hospitals.
 
-I’m exploring a **small pilot at Bon Secours Dublin** that stays firmly on the “low‑risk” side: operational workflows (scheduling, cancellations, admin load) and an evaluation plan that makes the limitations explicit. No diagnostic decision support.
+I’m exploring a **small pilot at Bon Secours Dublin** that stays firmly on the low‑risk side: operational workflows (scheduling, cancellations, admin load) plus a readiness/safety posture that makes limitations explicit. No diagnostic decision support.
 
-If this is something you’d be open to, I’d value 25 minutes to sanity‑check which workflow would be clinically acceptable and who should be involved from the start (quality/safety, nursing, IT).
+In 4–6 weeks, the goal would be: map one workflow, identify the real constraints, propose guardrails, and deliver a prototype + evaluation plan.
+
+If you’re open to it, I’d value 25 minutes to sanity‑check which workflow would be clinically acceptable and who should be involved from day one (quality/safety, nursing, IT).
 
 Best,
 `{{your_name}}`
@@ -84,7 +91,7 @@ Best,
 
 LinkedIn message (after connecting):
 
-Thanks for connecting, Prof Patchett. I’d like your guidance on a single, low‑risk operational AI pilot (no PHI, no diagnostics) with a clear evaluation + safety posture. Would a brief call suit?
+Thanks for connecting, Prof Patchett. I’m proposing one low‑risk operational AI pilot (no diagnostics) with clear guardrails and an evaluation/safety posture from day one. Would a brief call suit?
 
 ---
 
@@ -105,6 +112,8 @@ I’m `{{your_name}}` (`{{your_title}}`). I work on AI adoption that reduces adm
 
 If Bon Secours Dublin is exploring AI in 2026, I’d suggest starting with a narrow, measurable workflow — for example, **nursing documentation/admin support** or **patient flow coordination** — with clear constraints (no unsupervised clinical advice; tight access controls; explicit evaluation).
 
+In a 4–6 week pilot, the aim would be to map the workflow, assess readiness, and implement a small change with guardrails and an evaluation plan.
+
 Would you be open to a short call to understand where time is being lost today, and what would count as a genuine win for nursing?
 
 Best,
@@ -112,7 +121,7 @@ Best,
 
 LinkedIn connect note:
 
-Hi Celine — I’m `{{your_name}}`. I focus on safety‑first AI pilots that reduce nursing/admin burden (no PHI-first approach, clear evaluation + governance). Would you be open to a brief chat?
+Hi Celine — I’m `{{your_name}}`. I focus on safety‑first AI pilots that reduce nursing/admin burden, paired with a readiness + evaluation plan. Would you be open to a brief chat?
 
 ---
 
@@ -133,14 +142,16 @@ I’m `{{your_name}}` (`{{your_title}}`). I help hospitals run small, low‑risk
 
 For Bon Secours Dublin, I think there’s a strong early win in areas like **theatre cancellations** or **outpatient DNAs** — the kind of work where you can measure impact quickly and avoid any dependency on patient notes.
 
-If helpful, I can share a short pilot plan (scope, guardrails, evaluation) and we can do a 25-minute call to confirm whether it’s worth pursuing.
+In 4–6 weeks, I’d aim to map the workflow, identify the constraints, improve readiness, and deliver a small prototype + evaluation plan (so you can make a clear go/no-go decision).
+
+If helpful, I can send a one-page outline and we can do a 25-minute call to confirm whether it’s worth pursuing.
 
 Best,
 `{{your_name}}`
 
 LinkedIn connect note:
 
-Hi Mary — I’m `{{your_name}}`. I run practical AI pilots for hospital ops (cancellations/DNAs/scheduling) with clear evaluation and low data risk. Would you be open to a quick call?
+Hi Mary — I’m `{{your_name}}`. I run practical AI pilots for hospital ops (cancellations/DNAs/scheduling), and I include readiness + evaluation so it’s safe and measurable. Would you be open to a quick call?
 
 ---
 
@@ -159,7 +170,7 @@ Hi Mary,
 
 I’m `{{your_name}}` (`{{your_title}}`). A lot of “AI projects” fail because staff don’t get clear guidance: what’s allowed, what isn’t, and how to use tools safely.
 
-If Bon Secours Dublin is interested, I can share a lightweight **AI acceptable‑use + training** package aimed at hospital realities (privacy, clinical safety, auditability), paired with one small pilot so learning happens in a real workflow.
+If Bon Secours Dublin is interested, I can fold a lightweight **AI acceptable‑use + training** package into a 4–6 week pilot: map one workflow, define guardrails, train the relevant roles, and evaluate the outcome.
 
 If you can point me to the right person (or if this is you), I’d appreciate 20 minutes.
 
@@ -187,7 +198,7 @@ Hi Mary,
 
 I’m `{{your_name}}` (`{{your_title}}`). I work on making AI investments in hospitals **testable**: small scope, clear evaluation, and a stop/go decision that doesn’t rely on vendor claims.
 
-If Bon Secours Dublin is considering AI, I’d propose a single workflow pilot (e.g., cancellations/DNAs) with a short evaluation plan so you can quantify the impact before any larger commitment.
+If Bon Secours Dublin is considering AI, I’d propose a 4–6 week, single-workflow pilot (e.g., cancellations/DNAs) that includes a readiness/safety check and an evaluation plan so you can quantify impact before any larger commitment.
 
 Would you be open to a brief call, or can you point me to the right owner for operational improvement?
 
@@ -229,9 +240,9 @@ Email draft:
 
 Hi Alan,
 
-I’m `{{your_name}}` (`{{your_title}}`). I’m building an Ireland-first approach to hospital AI adoption that is practical: **small pilots** paired with **governance and evaluation** so lessons scale safely.
+I’m `{{your_name}}` (`{{your_title}}`). I’m building an Ireland-first approach to hospital AI adoption that is practical: **small pilots** paired with **readiness + governance + evaluation** so lessons scale safely.
 
-Bon Secours is well-positioned to do this across the group. If helpful, I can share a simple playbook: pilot selection criteria, safety posture, security/privacy checklist, and a repeatable evaluation method.
+Bon Secours is well-positioned to do this across the group. A good starting point is a 4–6 week pilot in one hospital/workflow, ending with a repeatable playbook (guardrails, evaluation, and a scaling recommendation).
 
 Would you be open to a short call, or should I start with the group CIO?
 
@@ -255,16 +266,16 @@ Hi Darragh,
 
 I’m `{{your_name}}` (`{{your_title}}`). I’m focused on hospital AI delivery that is defensible: clear scope, measurable outcomes, and a governance posture that stands up to scrutiny.
 
-If Bon Secours is exploring AI this year, I’d propose starting with a single operational workflow pilot (no patient notes) and pairing it with a lightweight evaluation + governance pack (access controls, auditability, model limitations, monitoring).
+If Bon Secours is exploring AI this year, I’d propose a 4–6 week pilot on a single operational workflow (ideally starting without patient notes), paired with a readiness + governance pack (access controls, auditability, vendor risk checks, explicit limitations, monitoring) and an evaluation plan.
 
-Would you be open to a 25-minute call? If someone on your team owns digital transformation pilots, I’m happy to speak with them directly.
+Would you be open to a 25-minute call? If someone on your team owns pilots, I’m happy to speak with them directly.
 
 Best,
 `{{your_name}}`
 
 LinkedIn connect note:
 
-Hi Darragh — I help hospitals run small AI pilots (one workflow, low data risk) with proper evaluation + governance. Would you be open to a brief call?
+Hi Darragh — I help hospitals run small AI pilots (one workflow, low data risk) and I include readiness + evaluation + governance so it’s safe to deploy. Would you be open to a brief call?
 
 ---
 
@@ -307,4 +318,3 @@ Hi {{name}} — quick follow-up. If it’s useful, I can send a one‑page pilot
 Follow-up 2 (7–10 business days):
 
 Hi {{name}} — last note from me. I’m planning outreach calls for February and I’m happy to tailor this to whichever workflow matters most (theatre / outpatients / radiology ops). If there’s no fit right now, no problem.
-

@@ -22,9 +22,9 @@ Subject options:
 
 Hi {{name}},
 
-I’m Brian Kelleher. I help hospitals run **small, safety‑first AI pilots** that produce measurable operational wins — paired with an evaluation plan leadership can trust.
+I’m Brian Kelleher. I help hospitals run **small, safety‑first AI pilots** (one workflow) and I deliver the readiness + guardrails + evaluation plan so it’s safe to deploy.
 
-For {{hospital}}, a strong early candidate is {{workflow}} (e.g., theatre cancellations / outpatient DNAs). The approach is: 1–2 short discovery sessions, then a 4–6 week pilot with clear guardrails (no patient notes unless explicitly agreed).
+For {{hospital}}, a strong early candidate is {{workflow}} (e.g., theatre cancellations / outpatient DNAs). In 4–6 weeks, the goal is to map the workflow end-to-end, identify constraints, implement a small prototype, and evaluate impact with a clear go/no-go.
 
 Would you be open to a 25‑minute call next week? If someone else owns operational improvement/digital, I’m happy to route via them.
 
@@ -44,7 +44,7 @@ Hi {{name}},
 
 I’m Brian Kelleher. I work on hospital AI delivery that is defensible: **tight scope, low data risk, explicit limitations**, and an evaluation plan that makes stop/go decisions easy.
 
-If {{hospital}} is exploring AI this year, I’d propose starting with one operational workflow ({{workflow}}) and pairing it with a lightweight governance pack (access controls, auditability, monitoring, vendor risk checks).
+If {{hospital}} is exploring AI this year, I’d propose a 4–6 week pilot on one operational workflow ({{workflow}}), paired with readiness + governance (access controls, auditability, monitoring, vendor risk checks).
 
 Could we do a 25‑minute call to see if there’s a fit?
 
@@ -80,4 +80,3 @@ Hi {{name}} — I’m Brian Kelleher. I help Irish hospitals run small, low‑ri
 ## LinkedIn — message after connecting
 
 Thanks for connecting, {{name}}. I’m proposing a focused pilot ({{workflow}}) that stays low‑risk and includes an evaluation/safety posture from day one. If useful, I can send a 1‑page pilot outline. Would a short call suit?
-
