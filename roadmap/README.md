@@ -26,3 +26,7 @@ This roadmap is a lightweight checklist of skills and deliverables that map to n
 - 10+ informational interviews (summaries only)
 - Public artifacts: blog posts, talks, open-source examples
 - Case studies (anonymized) demonstrating measured impact
+
+## Outreach
+
+- Initial hospital shortlist: `roadmap/hospital-targets.md`
