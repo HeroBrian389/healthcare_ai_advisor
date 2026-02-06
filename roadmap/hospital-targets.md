@@ -39,6 +39,7 @@ These can be strong for early pilots and case studies (speed + operational focus
 - Blackrock Clinic (Dublin)
 - Mater Private Hospital (Dublin)
 - Hermitage Clinic / Hermitage Medical Clinic (Dublin)
+- Bon Secours Hospital, Glasnevin (Dublin)
 - Galway Clinic (Blackrock Health Galway Clinic) (Galway)
 - UPMC Kildare Hospital (Clane)
 - UPMC Whitfield Clinic (Waterford)
@@ -51,4 +52,3 @@ If you want a narrow, high-ROI starting point:
 - Orthopaedics: Cappagh National Orthopaedic Hospital
 - Rehab: National Rehabilitation Hospital (Dún Laoghaire)
 - Eye: Royal Victoria Eye & Ear Hospital
-
