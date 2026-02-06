@@ -1,6 +1,6 @@
 # Roadmap
 
-This roadmap is a lightweight checklist of skills and deliverables that map to the reality of advising hospitals.
+This roadmap is a lightweight checklist of skills and deliverables that map to national-scale AI leadership (starting with healthcare).
 
 ## Milestone 1 — Core healthcare + Ireland context
 - Understand how Irish healthcare is organized (HSE, public vs private, major hospital groups)
@@ -22,8 +22,7 @@ This roadmap is a lightweight checklist of skills and deliverables that map to t
 - Write 2–3 advisory memos (e.g., “RAG for discharge summaries: risks + controls”)
 - Build an evaluation harness for an LLM workflow (metrics + red teaming)
 
-## Milestone 5 — Market credibility
+## Milestone 5 — Credibility + influence
 - 10+ informational interviews (summaries only)
 - Public artifacts: blog posts, talks, open-source examples
 - Case studies (anonymized) demonstrating measured impact
-
