@@ -30,3 +30,6 @@ This roadmap is a lightweight checklist of skills and deliverables that map to n
 ## Outreach
 
 - Initial hospital shortlist: `roadmap/hospital-targets.md`
+- Outreach templates: `roadmap/outreach/templates.md`
+- Bon Secours Dublin contact map: `roadmap/outreach/bon-secours-dublin.md`
+- Bon Secours Dublin outreach drafts: `roadmap/outreach/bon-secours-dublin-outreach.md`
