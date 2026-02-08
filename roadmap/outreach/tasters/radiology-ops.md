@@ -1,4 +1,4 @@
-# Radiology operations & QA workflow — pilot taster
+# Bon Secours Hospital Dublin — radiology operations & QA workflow (pilot taster)
 
 Audience: Ops / Radiology leadership / CIO
 
@@ -15,6 +15,10 @@ This pilot proposes a 4–6 week, safety‑first AI deployment focused on operat
 - report QA workflow support (format/completeness checks, not clinical correctness)
 
 Default posture: no image interpretation and no autonomous clinical decisions.
+
+## Why Bon Secours Dublin (context)
+
+Bon Secours Hospital Dublin (Glasnevin) is a planned-care private hospital with a strong diagnostics footprint. HIQA describes it as an elective adult-only acute general hospital with 90 inpatient beds and 70 day care beds. That model makes radiology and diagnostic workflows a direct constraint on theatre efficiency, outpatient throughput, and patient experience.
 
 ## What we’ll do (4–6 weeks)
 
@@ -43,7 +47,7 @@ flowchart LR
 
 - Operational RIS/PACS metadata (timestamps, modality, queue status)
 - Worklist and backlog data (counts, age, routing)
-- Non-PHI operational labels (e.g., “awaiting scheduling”, “awaiting report”)
+- Non-identifying operational labels (e.g., “awaiting scheduling”, “awaiting report”)
 
 Optional (only if agreed): de-identified report text for formatting/completeness QA.
 
@@ -60,6 +64,15 @@ Optional (only if agreed): de-identified report text for formatting/completeness
 - Reduced handoff delays
 - Reduced admin time per case
 - Improved report completeness/standardisation (if QA wedge)
+
+```mermaid
+%%{init: {"theme": "base", "themeVariables": {"fontFamily": "Karla", "primaryColor": "#F4F3F0", "primaryTextColor": "#2B2D32", "primaryBorderColor": "#D4D3D0", "lineColor": "#3E4048", "secondaryColor": "#E8F0ED", "tertiaryColor": "#EAEAE6"}}}%%
+xychart-beta
+    title "Report turnaround (illustrative)"
+    x-axis ["Baseline", "After pilot"]
+    y-axis "Hours" 0 --> 72
+    bar [48, 36]
+```
 
 ## Safety & governance posture
 

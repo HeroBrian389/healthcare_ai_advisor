@@ -209,6 +209,11 @@ def main() -> int:
         action="store_true",
         help="Also convert each .docx to PDF via LibreOffice",
     )
+    parser.add_argument(
+        "--overline",
+        default="Pilot taster",
+        help="Overline label used on the title page (e.g., a hospital name)",
+    )
     args = parser.parse_args()
 
     root = Path(__file__).resolve().parents[1]
@@ -222,25 +227,25 @@ def main() -> int:
         TasterSpec(
             slug="theatre-cancellations",
             title="Theatre utilisation & cancellations — 4–6 week pilot",
-            overline="Pilot taster",
+            overline=args.overline,
             source_md=tast_dir / "theatre-cancellations.md",
         ),
         TasterSpec(
             slug="outpatient-dnas",
             title="Outpatients DNAs — 4–6 week pilot",
-            overline="Pilot taster",
+            overline=args.overline,
             source_md=tast_dir / "outpatient-dnas.md",
         ),
         TasterSpec(
             slug="radiology-ops",
             title="Radiology ops & QA workflow — 4–6 week pilot",
-            overline="Pilot taster",
+            overline=args.overline,
             source_md=tast_dir / "radiology-ops.md",
         ),
         TasterSpec(
             slug="nursing-admin",
             title="Nursing documentation/admin burden — 4–6 week pilot",
-            overline="Pilot taster",
+            overline=args.overline,
             source_md=tast_dir / "nursing-admin.md",
         ),
     ]

@@ -1,4 +1,4 @@
-# Outpatients DNAs (Did Not Attend) — pilot taster
+# Bon Secours Hospital Dublin — outpatients DNAs (pilot taster)
 
 Audience: CEO / Ops / Outpatients management
 
@@ -14,7 +14,11 @@ This pilot proposes a 4–6 week, safety‑first AI deployment focused on:
 - improving communications/worklists for staff,
 - measuring impact with a clear go/no-go decision.
 
-Default posture: start with **scheduling and communication metadata**, not patient notes.
+Default posture: start with scheduling and communication metadata, not patient notes.
+
+## Why Bon Secours Dublin (context)
+
+Bon Secours Hospital Dublin (Glasnevin) is a planned-care private hospital with a strong outpatient and diagnostics footprint. HIQA describes it as an elective adult-only acute general hospital with 90 inpatient beds and 70 day care beds. A DNA reduction pilot is a good fit because it can start from operational scheduling and communications data, deliver measurable gains within weeks, and stay inside clear safety boundaries.
 
 ## What we’ll do (4–6 weeks)
 

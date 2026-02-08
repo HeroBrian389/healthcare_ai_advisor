@@ -1,4 +1,4 @@
-# Theatre utilisation & cancellations — pilot taster
+# Bon Secours Hospital Dublin — theatre utilisation & cancellations (pilot taster)
 
 Audience: CEO / Ops / Clinical leadership
 
@@ -6,7 +6,7 @@ Status: draft (shareable)
 
 ## Executive summary
 
-Theatre time is expensive and constrained. A large share of cancellations are predictable *early enough* to intervene.
+Theatre time is expensive and constrained. A large share of cancellations are predictable early enough to intervene.
 
 This pilot proposes a 4–6 week, safety‑first AI deployment focused on:
 
@@ -15,6 +15,10 @@ This pilot proposes a 4–6 week, safety‑first AI deployment focused on:
 - workflow changes that reduce avoidable cancellations.
 
 Default posture: no patient notes; rely on operational metadata and scheduling signals.
+
+## Why Bon Secours Dublin (context)
+
+Bon Secours Hospital Dublin (Glasnevin) is a planned-care private hospital. HIQA describes it as an elective adult-only acute general hospital with 90 inpatient beds and 70 day care beds. That model is well suited to a tight theatre utilisation and cancellations pilot: change control is manageable, outcomes are measurable within weeks, and you can start from operational scheduling signals without needing patient notes.
 
 ## What we’ll do (4–6 weeks)
 
@@ -53,7 +57,7 @@ gantt
 ## Deliverables
 
 - A short “current state” map + bottleneck analysis
-- A prioritised intervention list (what changes *actually* reduce cancellations)
+- A prioritised intervention list (what changes genuinely reduce cancellations)
 - A small prototype/workflow (UI and/or reporting) to support earlier interventions
 - Evaluation plan + measured pilot results
 

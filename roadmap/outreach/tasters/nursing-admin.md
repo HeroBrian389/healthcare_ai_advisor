@@ -1,4 +1,4 @@
-# Nursing documentation & admin burden — pilot taster
+# Bon Secours Hospital Dublin — nursing documentation & admin burden (pilot taster)
 
 Audience: Director of Nursing / Quality & Patient Safety
 
@@ -12,6 +12,10 @@ This pilot proposes a 4–6 week, safety‑first AI deployment focused on reduci
 
 Default posture: start with templates, structured inputs, and admin support — not autonomous clinical advice.
 
+## Why Bon Secours Dublin (context)
+
+Bon Secours Hospital Dublin (Glasnevin) is a planned-care private hospital. HIQA describes it as an elective adult-only acute general hospital with 90 inpatient beds and 70 day care beds. That environment tends to amplify the impact of admin friction (handover, documentation, discharge processes, clinic coordination) because throughput and coordination quality show up quickly in patient experience and operational performance.
+
 ## What we’ll do (4–6 weeks)
 
 1. Map one documentation/admin workflow end-to-end (choose one ward/unit)
@@ -20,6 +24,7 @@ Default posture: start with templates, structured inputs, and admin support — 
 4. Measure time saved, error reduction, and user adoption
 
 ```mermaid
+%%{init: {"theme": "base", "themeVariables": {"fontFamily": "Karla", "primaryColor": "#F4F3F0", "primaryTextColor": "#2B2D32", "primaryBorderColor": "#D4D3D0", "lineColor": "#3E4048", "secondaryColor": "#E8F0ED", "tertiaryColor": "#EAEAE6"}}}%%
 flowchart TB
   A[Shift starts] --> B[Tasks + patient list]
   B --> C[Notes / documentation]
@@ -56,6 +61,15 @@ flowchart TB
 - Reduced duplication or missing fields
 - Higher staff satisfaction / adoption
 - Fewer rework loops in handover
+
+```mermaid
+%%{init: {"theme": "base", "themeVariables": {"fontFamily": "Karla", "primaryColor": "#F4F3F0", "primaryTextColor": "#2B2D32", "primaryBorderColor": "#D4D3D0", "lineColor": "#3E4048", "secondaryColor": "#E8F0ED", "tertiaryColor": "#EAEAE6"}}}%%
+xychart-beta
+    title "Admin time per shift (illustrative)"
+    x-axis ["Baseline", "After pilot"]
+    y-axis "Minutes" 0 --> 180
+    bar [120, 90]
+```
 
 ## Safety & governance posture
 

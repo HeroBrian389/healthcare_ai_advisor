@@ -2,13 +2,19 @@
 
 Last updated: 2026-02-06.
 
-Scope: **short, role-specific messages** you can send via email or LinkedIn.
+Scope: short, role-specific messages you can send via email or LinkedIn.
 
 Principles (keep it focused):
 
-- **No PHI.** Start with operational/admin workflows (scheduling, cancellations, patient flow metadata).
-- **One workflow, one pilot.** 4–6 weeks beats “AI transformation”.
-- **Measured tone.** No hype. Be specific about risk controls.
+- No patient notes by default. Start with operational/admin workflows (scheduling, cancellations, patient flow metadata).
+- One workflow, one pilot. 4–6 weeks beats “AI transformation”.
+- Measured tone. No hype. Be specific about risk controls.
+
+Public personalisation notes: `roadmap/outreach/bon-secours-dublin-snapshot.md`.
+
+Suggested 1-line personalisation you can drop into a cold email:
+
+- HIQA describes Bon Secours Dublin as an elective adult-only acute general hospital (90 inpatient beds, 70 day care beds), which makes a tight ops pilot (cancellations, DNAs, diagnostics flow) realistic to execute and measure.
 
 Quick personalisation fields (fill once):
 
@@ -18,7 +24,7 @@ Quick personalisation fields (fill once):
 - `{{your_linkedin}}`: (optional)
 - `{{your_cred}}`: 1 line (e.g., “I build evaluation + governance for clinical AI workflows.”)
 
-Default pilot menu (pick **one** per thread):
+Default pilot menu (pick one per thread):
 
 - Theatre utilisation + cancellations
 - Outpatients: DNAs + scheduling load
@@ -34,7 +40,7 @@ Channel: email via `dublininfo@bonsecours.ie` (Attn: Sharon Morrow) and/or Linke
 Subject options:
 
 - Bon Secours Dublin: low‑risk AI pilot (one workflow)
-- Quick call: theatre cancellations / scheduling (AI, no PHI)
+- Quick call: theatre cancellations / scheduling (AI, no patient notes)
 
 Email draft:
 
@@ -42,13 +48,15 @@ Hi Sharon,
 
 I’m `{{your_name}}` (`{{your_title}}`). `{{your_cred}}`.
 
-I’m reaching out because Bon Secours Dublin looks like a strong candidate for a **small, low‑risk AI pilot** focused on one operational workflow (e.g., theatre cancellations or outpatient DNAs) — ideally **starting without patient notes**.
+I’m reaching out because Bon Secours Dublin looks like a strong candidate for a small, low‑risk AI pilot focused on one operational workflow (e.g., theatre cancellations or outpatient DNAs) — ideally starting without patient notes.
+
+HIQA describes Bon Secours Dublin as an elective adult-only acute general hospital (90 inpatient beds, 70 day care beds). That planned-care model is well suited to a measurable operations pilot.
 
 In 4–6 weeks, I’d aim to:
 
 - Map the workflow end-to-end and identify bottlenecks
-- Assess practical **AI readiness** (data, access, governance, change)
-- Propose a **safe deployment approach** (guardrails, auditability, monitoring)
+- Assess practical AI readiness (data, access, governance, change)
+- Propose a safe deployment approach (guardrails, auditability, monitoring)
 - Deliver a small prototype + an evaluation plan so you have a clear go/no-go
 
 If you’re open to it, could we do a 25–30 minute call next week? If someone else is better placed (ops / digital), I’m happy to route via them.
@@ -79,7 +87,9 @@ Hi Prof Patchett,
 
 I’m `{{your_name}}` (`{{your_title}}`). I’m working on practical, safety‑first AI adoption in Irish hospitals.
 
-I’m exploring a **small pilot at Bon Secours Dublin** that stays firmly on the low‑risk side: operational workflows (scheduling, cancellations, admin load) plus a readiness/safety posture that makes limitations explicit. No diagnostic decision support.
+I’m exploring a small pilot at Bon Secours Dublin that stays firmly on the low‑risk side: operational workflows (scheduling, cancellations, admin load) plus a readiness/safety posture that makes limitations explicit. No diagnostic decision support.
+
+From a clinical governance point of view, it helps that HIQA describes the hospital’s model as elective adult-only planned care.
 
 In 4–6 weeks, the goal would be: map one workflow, identify the real constraints, propose guardrails, and deliver a prototype + evaluation plan.
 
@@ -102,7 +112,7 @@ Channel: LinkedIn or email via `dublininfo@bonsecours.ie` (Attn: Director of Nur
 Subject options:
 
 - Nursing admin burden: small AI pilot (safety-first)
-- Bon Secours Dublin: documentation + staffing support (no PHI)
+- Bon Secours Dublin: documentation + staffing support (no patient notes)
 
 Email draft:
 
@@ -110,7 +120,7 @@ Hi Celine,
 
 I’m `{{your_name}}` (`{{your_title}}`). I work on AI adoption that reduces admin burden while keeping clinical safety and governance front-and-centre.
 
-If Bon Secours Dublin is exploring AI in 2026, I’d suggest starting with a narrow, measurable workflow — for example, **nursing documentation/admin support** or **patient flow coordination** — with clear constraints (no unsupervised clinical advice; tight access controls; explicit evaluation).
+If Bon Secours Dublin is exploring AI in 2026, I’d suggest starting with a narrow, measurable workflow — for example, nursing documentation/admin support or patient flow coordination — with clear constraints (no unsupervised clinical advice; tight access controls; explicit evaluation).
 
 In a 4–6 week pilot, the aim would be to map the workflow, assess readiness, and implement a small change with guardrails and an evaluation plan.
 
@@ -132,7 +142,7 @@ Channel: LinkedIn or email via `dublininfo@bonsecours.ie` (Attn: Mary Houston).
 Subject options:
 
 - One operational AI pilot for Dublin (4–6 weeks)
-- Reducing cancellations / DNAs: quick pilot proposal (no PHI)
+- Reducing cancellations / DNAs: quick pilot proposal (no patient notes)
 
 Email draft:
 
@@ -140,7 +150,7 @@ Hi Mary,
 
 I’m `{{your_name}}` (`{{your_title}}`). I help hospitals run small, low‑risk AI pilots focused on operational workflows.
 
-For Bon Secours Dublin, I think there’s a strong early win in areas like **theatre cancellations** or **outpatient DNAs** — the kind of work where you can measure impact quickly and avoid any dependency on patient notes.
+For Bon Secours Dublin, I think there’s a strong early win in areas like theatre cancellations or outpatient DNAs — the kind of work where you can measure impact quickly and avoid any dependency on patient notes.
 
 In 4–6 weeks, I’d aim to map the workflow, identify the constraints, improve readiness, and deliver a small prototype + evaluation plan (so you can make a clear go/no-go decision).
 
@@ -170,7 +180,7 @@ Hi Mary,
 
 I’m `{{your_name}}` (`{{your_title}}`). A lot of “AI projects” fail because staff don’t get clear guidance: what’s allowed, what isn’t, and how to use tools safely.
 
-If Bon Secours Dublin is interested, I can fold a lightweight **AI acceptable‑use + training** package into a 4–6 week pilot: map one workflow, define guardrails, train the relevant roles, and evaluate the outcome.
+If Bon Secours Dublin is interested, I can fold a lightweight AI acceptable‑use + training package into a 4–6 week pilot: map one workflow, define guardrails, train the relevant roles, and evaluate the outcome.
 
 If you can point me to the right person (or if this is you), I’d appreciate 20 minutes.
 
@@ -196,7 +206,7 @@ Email draft:
 
 Hi Mary,
 
-I’m `{{your_name}}` (`{{your_title}}`). I work on making AI investments in hospitals **testable**: small scope, clear evaluation, and a stop/go decision that doesn’t rely on vendor claims.
+I’m `{{your_name}}` (`{{your_title}}`). I work on making AI investments in hospitals testable: small scope, clear evaluation, and a stop/go decision that doesn’t rely on vendor claims.
 
 If Bon Secours Dublin is considering AI, I’d propose a 4–6 week, single-workflow pilot (e.g., cancellations/DNAs) that includes a readiness/safety check and an evaluation plan so you can quantify impact before any larger commitment.
 
@@ -240,7 +250,7 @@ Email draft:
 
 Hi Alan,
 
-I’m `{{your_name}}` (`{{your_title}}`). I’m building an Ireland-first approach to hospital AI adoption that is practical: **small pilots** paired with **readiness + governance + evaluation** so lessons scale safely.
+I’m `{{your_name}}` (`{{your_title}}`). I’m building an Ireland-first approach to hospital AI adoption that is practical: small pilots paired with readiness + governance + evaluation so lessons scale safely.
 
 Bon Secours is well-positioned to do this across the group. A good starting point is a 4–6 week pilot in one hospital/workflow, ending with a repeatable playbook (guardrails, evaluation, and a scaling recommendation).
 

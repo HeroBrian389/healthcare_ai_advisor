@@ -4,12 +4,19 @@ Publicly listed leadership + a practical path for outreach.
 
 Last updated: 2026-02-06.
 
+For hospital size/specialties/layout personalisation, see: `roadmap/outreach/bon-secours-dublin-snapshot.md`.
+
 Sources used:
 
 - Bon Secours “Board and management” directory: https://www.bonsecours.ie/about/board-and-management
 - Bon Secours Hospital Dublin contact page: https://www.bonsecours.ie/dublin/contact
 - Bon Secours data protection page (DPO contact): https://www.bonsecours.ie/data-protection-and-privacy
 - LinkedIn company pages (Bon Secours Hospital Dublin / Bon Secours Health System Ireland)
+
+Additional sources (public snapshot):
+
+- HIQA “Find a Centre” listing + inspection report PDF download
+- Bon Secours pages: facilities, directions, endoscopy, physiotherapy, wound care clinic, accreditation/regulation
 
 ## Official entry points
 
