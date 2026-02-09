@@ -1,0 +1,29 @@
+# Project-scoped Codex configuration for this repository.
+#
+# Goal:
+# - Enable only the Gmail MCP server in this repo
+# - Disable any globally-configured MCP servers while you're working here
+#
+# Notes:
+# - OAuth keys and credentials are stored under `.auth/` (already gitignored)
+# - No secrets are embedded in this file
+
+# Disable globally-configured MCP servers for this repo.
+[mcp_servers.linear]
+enabled = false
+
+[mcp_servers.sentry]
+enabled = false
+
+[mcp_servers.playwright]
+enabled = false
+
+# Gmail MCP server (AutoAuth).
+[mcp_servers.gmail]
+command = "npx"
+args = ["-y", "@gongrzhe/server-gmail-autoauth-mcp@1.1.11"]
+cwd = "."
+
+[mcp_servers.gmail.env]
+GMAIL_OAUTH_PATH = ".auth/gmail-mcp/gcp-oauth.keys.json"
+GMAIL_CREDENTIALS_PATH = ".auth/gmail-mcp/credentials.json"
